@@ -1,0 +1,7 @@
+package-lock.json
+lib/*
+!lib/.gitkeep
+node_modules/
+
+.vs
+
